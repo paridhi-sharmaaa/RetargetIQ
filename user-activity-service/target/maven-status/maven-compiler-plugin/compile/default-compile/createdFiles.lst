@@ -1,0 +1,4 @@
+com/example/useractivity/ActivityController.class
+com/example/useractivity/KafkaProducer.class
+com/example/useractivity/KafkaProducerConfig.class
+com/example/useractivity/Main.class
