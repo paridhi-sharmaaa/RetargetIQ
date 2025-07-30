@@ -4,7 +4,7 @@
 
 ---
 
-## 📦 Overview
+## Overview
 
 This project contains 4 independent microservices:
 
@@ -17,7 +17,7 @@ All services communicate via Kafka topics using **asynchronous messaging**, deco
 
 ---
 
-## 🧠 Why This Project Was Built
+## Why This Project Was Built
 
 This was my first real-world microservices project, built as an onboarding task at DTDL. It helped me:
 - Understand the structure of production-grade backend systems
@@ -27,7 +27,7 @@ This was my first real-world microservices project, built as an onboarding task 
 
 ---
 
-## 🧱 Services & Topics
+## Services & Topics
 
 ### 1. **User Activity Service**
 - **Kafka Topic**: `user-activity-topic`
@@ -69,7 +69,7 @@ This was my first real-world microservices project, built as an onboarding task 
 
 ---
 
-## 🗺️ Architecture Diagram
+## Architecture Diagram
 
 ![RetargetIQ Architecture](./architecture.png)
 
@@ -86,7 +86,7 @@ This was my first real-world microservices project, built as an onboarding task 
 
 ---
 
-## 🚀 Running the System
+## Running the System
 
 ### Prerequisites
 - Docker
@@ -134,7 +134,7 @@ Each call sends a randomly generated payload to the corresponding Kafka topic.
 **Author**
 Paridhi Sharma
 Backend Engineering Intern – DTDL
-B.Tech | 2nd Year
+B.Tech | 2nd Year | IGDTUW'28
 🔗 **LinkedIn:** https://www.linkedin.com/in/theparidhisharma/
 📧 paridhi0203sharmaaa@gmail.com
 
