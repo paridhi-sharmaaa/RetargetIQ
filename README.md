@@ -1,6 +1,6 @@
 # RetargetIQ – Real-Time Kafka Microservices System
 
-**RetargetIQ** is a real-time backend system simulating how large-scale platforms process user behavior and transactions using event-driven architecture. Developed during my internship at **DTDL**, this project replicates a simplified yet realistic production pipeline using **Spring Boot**, **Apache Kafka**, and **Docker**.
+**RetargetIQ** is a real-time backend system simulating how large-scale platforms process user behavior and transactions using event-driven architecture. Developed during my internship at **DTDL**, this project replicates a simplified yet realistic production pipeline using **Spring Boot**, **Apache Kafka**, and **Docker**
 
 ---
 
